@@ -1,0 +1,7 @@
+.env
+__pycache__/
+logs/
+data/
+.git/
+.pytest_cache/
+notebooks_apprentissage/
